@@ -57,20 +57,6 @@ https://epg.pw/stream/fef2b0a1b538aec733fe12fd7ce2027a199d8f6f0f3a64753063d04777
 https://epg.pw/stream/255a4080ec98d7fdd51588ebc7d2c56a78e5e0cd46492f502e2cad43c7a28dc7.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山東衛視藍光[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
-http://39.135.138.58:18890/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視藍光[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視藍光[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",雲南衛視藍光[768*576]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",內蒙古衛視[768*576]
 http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",內蒙古衛視[768*576]
@@ -85,26 +71,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津衛視藍光[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
-http://39.135.138.58:18890/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視藍光[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
-http://39.135.138.58:18890/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視藍光[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京衛視[1920*1080]
 http://39.135.138.58:18890/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京衛視[1920*1080]
@@ -123,8 +89,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京衛視藍光[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",寧夏衛視[785*576]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肅衛視[768*576]
 http://39.135.138.60:18890/PLTV/88888910/224/3221225724/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肅衛視[768*576]
@@ -157,20 +121,28 @@ http://39.135.138.58:18890/PLTV/88888910/224/3221225723/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏衛視[768*576]
 http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視藍光[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視藍光[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="中國頻道",純享4k[3840*2160]
-http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="中國頻道",明星大片[1920*1080][1920*1080
 http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",東方衛視藍光[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",東南衛視藍光[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重慶衛視藍光[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江衛視[1920*1080]
@@ -197,6 +169,8 @@ http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江衛視[1920*1080]
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="中國頻道",純享4k[3840*2160]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳衛視藍光[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳衛視藍光[1920*1080]
@@ -223,12 +197,38 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 http://39.134.115.221:8080/PLTV/88888910/224/3221225625/index.m3u8
 #EXTINF:-1 group-title="中國頻道",超級電影[1920*1080][1920*1080
 http://39.134.115.221:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",雲南衛視藍光[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龍江衛視藍光[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龍江衛視藍光[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
 #EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龍江衛視藍光[1920*1080]
 http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",寧夏衛視[785*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視藍光[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",廣東衛視藍光[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視藍光[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="中國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",遼寧衛視藍光[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道",Animax Japan
@@ -339,8 +339,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="日本頻道",フジテレビ
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="台灣頻道",arir
-http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
 http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道",ELTA生活旅遊
@@ -371,6 +369,8 @@ http://123.51.230.108:18504/.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png",TraceSports
 http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣頻道",TVBS亞洲
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道",TVBS亞洲
@@ -381,6 +381,12 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png",TVBS新聞
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣頻道",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣頻道",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人間衛視
@@ -393,6 +399,8 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人間衛視
 http://123.51.230.108:18561/.m3u8
+#EXTINF:-1 group-title="台灣頻道",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
 http://123.51.230.108:18539/.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png",大立電視
@@ -401,6 +409,10 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png",大愛2台
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="台灣頻道",大愛一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="台灣頻道",大愛二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="台灣頻道",中天美食旅遊
 http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天綜合 HD
@@ -413,34 +425,14 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 #EXTINF:-1 group-title="台灣頻道",世新綜合
 http://61.58.60.230:9319/live/49.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/東風衛視.png",東風37
-http://123.51.230.108:18560/.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",東森電影
-http://120.84.96.89:808/hls/32/index.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",東森電影
-http://107.151.203.111:2209/135/hk.php?id=dsdyt
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png",東森戲劇
-http://123.51.230.108:18538/.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",東森財經 HD
-http://123.51.230.108:18515/.m3u8
-#EXTINF:-1 group-title="台灣頻道",東森購物
-http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",東森購物2
-http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",東森洋片
-http://120.84.96.73:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",東森洋片
-http://120.84.96.89:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",東森洋片
-http://107.151.203.111:2209/135/hk.php?id=dsypt
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png",東森超視34.5
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣頻道",發現心嘉義
-http://61.58.60.230:9319/live/101.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視.png",台視 HD
 http://107.151.203.111:2209/135/us50.php?id=tsk
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視.png",台視 HD
 http://23.237.10.66:16344
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞 HD
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞 HD
@@ -449,52 +441,56 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道",台灣番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="台灣頻道",台灣番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民視新聞
+http://123.51.230.108:18663/.m3u8
+#EXTINF:-1 group-title="台灣頻道",民視新聞
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民視新聞 HD
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民視新聞 HD
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民視新聞 HD
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民視新聞台
-http://123.51.230.108:18663/.m3u8
+#EXTINF:-1 group-title="台灣頻道",民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png",生命電視台
 http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",生活時尚
 http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龍華日韓.png",龍華日韓
-http://123.51.230.108:18551/.m3u8
-#EXTINF:-1 group-title="台灣頻道",龍祥時代
-http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
 #EXTINF:-1 group-title="台灣頻道",全民最大黨
 http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道",全球財經
 http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",創世電視
-https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-#EXTINF:-1 group-title="台灣頻道",華視新聞資訊 HD
-http://stream.dsichannel.com:80/hls/cts-news.m3u8
-#EXTINF:-1 group-title="台灣頻道",華視新聞資訊 HD
-http://stream.dsichannel.com/hls/cts-news.m3u8
 #EXTINF:-1 group-title="台灣頻道",好消息
 http://123.51.230.108:18507/.m3u8
 #EXTINF:-1 group-title="台灣頻道",老電影
 http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",時尚台FTV
-http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",時尚台FTV
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",時尚台FTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="台灣頻道",時裝頻道
-http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",緯來體育
-http://123.51.230.108:18509/.m3u8
-#EXTINF:-1 group-title="台灣頻道",國會頻道1
-http://61.58.60.230:9319/live/123.m3u8
-#EXTINF:-1 group-title="台灣頻道",寵物台
-http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",經典卡通台
-http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/東風衛視.png",東風37
+http://123.51.230.108:18560/.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",東森洋片
+http://120.84.96.73:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",東森洋片
+http://120.84.96.89:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",東森洋片
+http://107.151.203.111:2209/135/hk.php?id=dsypt
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",東森財經 HD
+http://123.51.230.108:18515/.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png",東森超視
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣頻道",東森新聞
+https://p.ggiptv.com/play.php?token=WRMeWP2Ry6A8P9GvEjFvUIlv&tid=gt&id=44
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",東森電影
+http://120.84.96.89:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",東森電影
+http://107.151.203.111:2209/135/hk.php?id=dsdyt
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png",東森戲劇
+http://123.51.230.108:18538/.m3u8
+#EXTINF:-1 group-title="台灣頻道",東森購物
+http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台灣頻道",東森購物2
+http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影劇.png",采昌影劇台
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道",金馬影院
@@ -509,142 +505,68 @@ http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民族電視台
 https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png",愛爾達娛樂 HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道",原住民電視
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="台灣頻道",原住民電視台
+https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+#EXTINF:-1 group-title="台灣頻道",原住民電視台
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="台灣頻道",時裝頻道
+http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道",國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",創世電視
+https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林體育台.png",智林體育台
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道",發現心嘉義
+http://61.58.60.230:9319/live/101.m3u8
+#EXTINF:-1 group-title="台灣頻道",華視新聞資訊 HD
+http://stream.dsichannel.com:80/hls/cts-news.m3u8
+#EXTINF:-1 group-title="台灣頻道",華視新聞資訊 HD
+http://stream.dsichannel.com/hls/cts-news.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png",愛爾達娛樂 HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道",愛爾達體育1台
+https://p.ggiptv.com/play.php?token=d7MO1MM%2BeUQOfVL0kVE0T4vK&tid=gt&id=81
+#EXTINF:-1 group-title="台灣頻道",經典卡通台
+http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png",靖天卡通台
 http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育樂.png",靖天育樂台
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映畫.png",靖天映畫
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天國際.png",靖天國際台
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戲劇.png",靖天戲劇台
 http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天歡樂.png",靖天歡樂台
 http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育樂.png",靖天育樂台
-http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天國際.png",靖天國際台
-http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映畫.png",靖天映畫
-http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戲劇.png",靖洋戲劇台
 http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道",嘉義SHOW
+#EXTINF:-1 group-title="台灣頻道",嘉義 SHOW
 http://61.58.60.230:9319/live/100.m3u8
 #EXTINF:-1 group-title="台灣頻道",精選動漫台
 http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道",影迷紀實台
 http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣頻道",TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣頻道",TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣頻道",TVBS新聞
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣頻道",人間衛視
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
-#EXTINF:-1 group-title="台灣頻道",大愛一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="台灣頻道",大愛二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="台灣頻道",台視新聞
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣頻道",台視新聞
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣頻道",民視新聞HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣頻道",民視新聞台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣頻道",原住民電視台
-https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
-#EXTINF:-1 group-title="台灣頻道",原住民電視台
-http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-#EXTINF:-1 group-title="台灣頻道",原住民電視
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="台灣頻道",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="台灣頻道",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="台灣頻道",愛爾達體育1台
-https://p.ggiptv.com/play.php?token=d7MO1MM%2BeUQOfVL0kVE0T4vK&tid=gt&id=81
-#EXTINF:-1 group-title="測試頻道",ABC新聞
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="測試頻道",AlarabyTV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",Astrakhan24(Opt-2)
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 group-title="測試頻道",CA
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="測試頻道",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 group-title="測試頻道",ComedyChannel
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",Documentary
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 group-title="測試頻道",EdgeSport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 group-title="測試頻道",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",InsightTV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",Inwonder
-https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",Iranian
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 group-title="測試頻道",moviesphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 group-title="測試頻道",NewsmaxTV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="測試頻道",Nostalgia
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 group-title="測試頻道",PBSAmerica
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",SexyK-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 group-title="測試頻道",UgraTV
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",UniverTV
-http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-#EXTINF:-1 group-title="測試頻道",Самара
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",華語電視1
-http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-#EXTINF:-1 group-title="測試頻道",華語電視2
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1 group-title="測試頻道",華語電視3
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 group-title="測試頻道",唯心電視
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-Arirang
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-BBS
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-BBS
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-EBS1
-http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-EBS2
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-EBSe
-http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-KCTV_HV2
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-MBC綜合頻道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="測試頻道",韓國-NBS Korea Agricultural Broadc
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",緯來體育
+http://123.51.230.108:18509/.m3u8
+#EXTINF:-1 group-title="台灣頻道",龍祥時代
+http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龍華日韓.png",龍華日韓
+http://123.51.230.108:18551/.m3u8
+#EXTINF:-1 group-title="台灣頻道",寵物台
+http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 #EXTINF:-1 group-title="美國頻道",30A Darcizzle Offshore
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 group-title="美國頻道",30A Investment Pitch
@@ -829,6 +751,36 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="香港頻道",TVBS亞洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有線新聞台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 group-title="香港頻道",足球頻道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 group-title="香港頻道",香港文旅
+http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
+#EXTINF:-1 group-title="香港頻道",香港有線直播新聞台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 group-title="香港頻道",香港有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",香港有線新聞
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="香港頻道",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港開電視[1280*720]
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港衛視
+http://124.238.99.44:808/hls/352/index.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港衛視HKS
+http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
+#EXTINF:-1 group-title="香港頻道",財經體育資訊台
+https://j3.lhlh.app/mv.m3u8
+#EXTINF:-1 group-title="香港頻道",財經體育資訊台
+https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞台
+http://radius.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://120.84.96.113:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://120.84.96.73:808/hls/25/index.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",鳳凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",鳳凰中文
@@ -847,12 +799,6 @@ http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",鳳凰中文[1920*1080]
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
-#EXTINF:-1 group-title="香港頻道",鳳凰電影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 group-title="香港頻道",鳳凰電影
-http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-#EXTINF:-1 group-title="香港頻道",鳳凰電影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 #EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",鳳凰香港
 http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",鳳凰香港
@@ -863,36 +809,12 @@ http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.9
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",鳳凰資訊
 http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞台
-http://radius.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有線新聞台
-http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-#EXTINF:-1 group-title="香港頻道",財經體育資訊台
-https://j3.lhlh.app/mv.m3u8
-#EXTINF:-1 group-title="香港頻道",財經體育資訊台
-https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
-#EXTINF:-1 group-title="香港頻道",足球頻道
-https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港衛視
-http://124.238.99.44:808/hls/352/index.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港衛視HKS
-http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港開電視[1280*720]
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="香港頻道",香港文旅
-http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
-#EXTINF:-1 group-title="香港頻道",香港有線財經資訊台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 group-title="香港頻道",香港有線直播新聞台
-https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",香港有線新聞
-http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 group-title="香港頻道",香港面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
-http://120.84.96.113:808/hls/25/index.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
-http://120.84.96.73:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="香港頻道",鳳凰電影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="香港頻道",鳳凰電影
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+#EXTINF:-1 group-title="香港頻道",鳳凰電影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 #EXTINF:-1 group-title="海外頻道",ALTV泰國(5G專線)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="海外頻道",ANTV(5G專線)
@@ -925,26 +847,20 @@ http://103.90.220.236/tntvlive/tv1live.m3u8
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="海外頻道",中國環球電視
 http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="海外頻道",孝廉
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",亞洲新聞
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",亞洲新聞(5G專線)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",東森新聞美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="海外頻道",長城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 group-title="海外頻道",長城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",亞洲新聞
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",亞洲新聞(5G專線)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",創世電視
-https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",創世電視
-https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-#EXTINF:-1 group-title="海外頻道",孝廉
-http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 #EXTINF:-1 group-title="海外頻道",俄羅斯GITV
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="海外頻道",點掌財經
-http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="海外頻道",美國中文
 https://cdnts.sinovision.net/livestream.m3u8
 #EXTINF:-1 group-title="海外頻道",香港電台普通話
@@ -953,6 +869,10 @@ https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="海外頻道",泰國·公共三台(5G專線)
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",創世電視
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+#EXTINF:-1 group-title="海外頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",創世電視
+https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 #EXTINF:-1 group-title="海外頻道",越南-CTV(5G專線)
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="海外頻道",越南-VBSTV(5G專線)
@@ -965,18 +885,98 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 #EXTINF:-1 group-title="海外頻道",澳門葡語
 http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 group-title="海外頻道",點掌財經
+http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="海外頻道",耀才財經
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 group-title="海外頻道",耀才財經
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1 group-title="海外頻道",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",ABC新聞
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="測試頻道",AlarabyTV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",Astrakhan24(Opt-2)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="測試頻道",CA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="測試頻道",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="測試頻道",ComedyChannel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 group-title="測試頻道",EdgeSport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 group-title="測試頻道",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",InsightTV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",Inwonder
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 group-title="測試頻道",moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="測試頻道",NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="測試頻道",Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="測試頻道",PBSAmerica
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",SexyK-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="測試頻道",UgraTV
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",UniverTV
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+#EXTINF:-1 group-title="測試頻道",Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="測試頻道",華語電視1
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 group-title="測試頻道",華語電視2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="測試頻道",華語電視3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-Arirang
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-KCTV_HV2
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-MBC綜合頻道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="測試頻道",韓國-NBS Korea Agricultural Broadc
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="港澳頻道",TVB J2
 https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="港澳頻道",TVB功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1 group-title="港澳頻道",TVB翡翠華麗
 http://23.237.10.66:16410
+#EXTINF:-1 group-title="港澳頻道",香港衛視文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 group-title="港澳頻道",鳳凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="港澳頻道" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",鳳凰中文
@@ -991,12 +991,8 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港澳頻道" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",鳳凰資訊
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳頻道",香港衛視文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 group-title="港澳頻道",澳門衛視
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳頻道",澳門體育
-http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",澳亞衛視
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="港澳頻道",澳門信息
 http://61.244.22.4/ch5/info_ch5.live/master.m3u8
 #EXTINF:-1 group-title="港澳頻道",澳門綜藝
@@ -1005,12 +1001,102 @@ http://61.244.22.4/ch6/hd_ch6.live/master.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="港澳頻道",澳門蓮花
 http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1 group-title="港澳頻道",澳亞衛視
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="港澳頻道",澳門衛視
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳頻道",澳門體育
+http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
 #EXTINF:-1 group-title="港澳頻道",澳視葡文
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳頻道",澳視澳門
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="新聞頻道",BBC America
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="新聞頻道",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",CNA亞洲新聞
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",CNA亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新聞頻道",CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png",DW 德國之聲
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
+https://euronews.alteox.app/hls/en_stream.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 group-title="新聞頻道",FOX NEWS
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="新聞頻道",NBC NEWS
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 group-title="新聞頻道",NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="新聞頻道",NBC NEWS NOW
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="新聞頻道",News max
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="新聞頻道",NHK World Japan
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="新聞頻道",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="新聞頻道",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="新聞頻道",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道",VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",半島新聞台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="新聞頻道",半島電視台
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="新聞頻道",半島電視台
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="新聞頻道",半島電視台
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞 HD
+https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1 group-title="澳門頻道",澳門Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="澳門頻道",澳門Macau
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 group-title="澳門頻道",澳門Macau
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門頻道",澳門資訊
+http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
+#EXTINF:-1 group-title="澳門頻道",澳門綜藝
+http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門頻道",澳門蓮花
+http://107.151.203.111:2209/135/hk.php?id=amlh
+#EXTINF:-1 group-title="澳門頻道",澳視葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="澳門頻道",澳視澳門
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="澳洲頻道",ausbiz TV (720p) [Geo-blo
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 group-title="澳洲頻道",C31 Melbourne (240p)
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 group-title="澳洲頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="澳洲頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News Extra 2 (540p) [
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="澳洲頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="澳洲頻道",Zoo Moo (Australia) (1080
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",ABN HD
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 group-title="韓國頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang 阿里郎
@@ -1127,8 +1213,6 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",MBC 나혼자산다
 https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
-#EXTINF:-1 group-title="韓國頻道",MBC 麗水
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",MBC 釜山
 http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",MBC 라디오스타
@@ -1137,6 +1221,8 @@ https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",MBC 무한도전
 https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韓國頻道",MBC 麗水
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",MBC 신비한 TV 서프라이즈
 https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID
 #EXTINF:-1 group-title="韓國頻道",MBC 어쩌다 발견한 하루
@@ -1205,12 +1291,12 @@ http://mytv.dothome.co.kr/ch/catv/261.php
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",小本生意
 http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",韓國職業廣播
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",韓國新聞
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 group-title="韓國頻道",韓國新聞
 http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+#EXTINF:-1 group-title="韓國頻道",韓國職業廣播
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",셀레브
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=sellev.&channel_id=newid_015&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2687d504-b92b3626-0e4a1f44-
 #EXTINF:-1 group-title="韓國頻道",신박한 벙커
@@ -1227,91 +1313,3 @@ https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://livestreaming.hyundaihmall.com/cjpstp/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",현대홈쇼핑+Shop
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道",BBC America
-https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBC WORLD NEWS
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="新聞頻道",CBC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",CNA亞洲新聞
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",CNA亞洲新聞
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="新聞頻道",CNC英文
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
-http://ip2121.com:8081/live/cnn/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png",DW 德國之聲
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
-https://euronews.alteox.app/hls/en_stream.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 group-title="新聞頻道",FOX NEWS
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France 24
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France 24
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="新聞頻道",NBC NEWS
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1 group-title="新聞頻道",NBC NEWS
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 group-title="新聞頻道",NBC NEWS NOW
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 group-title="新聞頻道",News max
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 group-title="新聞頻道",NHK World Japan
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 group-title="新聞頻道",NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 group-title="新聞頻道",NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 group-title="新聞頻道",RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道",VOA
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 group-title="新聞頻道",半島電視台
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="新聞頻道",半島電視台
-http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="新聞頻道",半島電視台
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",半島新聞台
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="新聞頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞 HD
-https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-#EXTINF:-1 group-title="澳門頻道",澳門Macau
-http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 group-title="澳門頻道",澳門Macau
-http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 group-title="澳門頻道",澳門Macau
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門頻道",澳門資訊
-http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
-#EXTINF:-1 group-title="澳門頻道",澳門綜藝
-http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門頻道",澳門蓮花
-http://107.151.203.111:2209/135/hk.php?id=amlh
-#EXTINF:-1 group-title="澳門頻道",澳視葡文
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 group-title="澳門頻道",澳視澳門
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="澳洲頻道",ausbiz TV (720p) [Geo-blo
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 group-title="澳洲頻道",C31 Melbourne (240p)
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="澳洲頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News Extra 1 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="澳洲頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News Extra 2 (540p) [
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="澳洲頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News Extra 3 (1080p)
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="澳洲頻道",Zoo Moo (Australia) (1080
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
