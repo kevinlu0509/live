@@ -3,8 +3,12 @@
 https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK
 http://123.51.230.108:18525/.m3u8
-#EXTINF:-1 group-title="台湾频道",民视第一台
-rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 group-title="台湾频道",民视
+#
+#EXTINF:-1 group-title="台湾频道",民视台湾台
+#
+#EXTINF:-1 group-title="台湾频道",民视综艺台
+#
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
 http://123.51.230.108:18663/.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
@@ -38,11 +42,13 @@ http://stream.dsichannel.com/hls/cts-news.m3u8
 #EXTINF:-1 group-title="台湾频道",镜新闻
 https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1 group-title="台湾频道",三立新闻台
-https://p.ggiptv.com/play.php?token=l24RZpJbmVlQoGDqNEy7xkb%2B&tid=gt&id=48
+#
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
 http://123.51.230.108:18539/.m3u8
 #EXTINF:-1 group-title="台湾频道",MOMO综合台
 rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 group-title="台湾频道",TVBS
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道TEST",TVBS亚洲台
@@ -101,12 +107,16 @@ rtmp://59.124.75.138/sat/tv771
 http://123.51.230.108:18509/.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/VideolandSportsHD.png",纬来体育台
 rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 group-title="台湾频道",TRACE音乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Ent.png",爱尔达娱乐 HD
 http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达体育1
 rtmp://59.124.75.138/sat/md031
 #EXTINF:-1 group-title="台湾频道",爱尔达体育2
 rtmp://59.124.75.138/sat/md051
+#EXTINF:-1 group-title="台湾频道",爱尔达体育3
+rtmp://59.124.75.138/sat/md011
 #EXTINF:-1 group-title="台湾频道",ELEVEN体育一台
 rtmp://59.124.75.138/sat/tv741
 #EXTINF:-1 group-title="台湾频道",ELEVEN体育二台
