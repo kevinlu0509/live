@@ -19,18 +19,12 @@ http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS欢乐台
 https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
-http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 http://123.51.230.108:18561/.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
 http://123.51.230.108:18539/.m3u8
@@ -45,35 +39,26 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="台湾频道",中天美食旅游
 http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天综合台
-http://107.151.203.111:2209/135/us50.php?id=ztz
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天综合台
 http://23.237.10.66:16372
+http://107.151.203.111:2209/135/us50.php?id=ztz
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://i.imgur.com/u81tZtA.png",中天新闻
 https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png",中视菁采
+#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png",中视菁采台
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png",中视菁采 HD
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 #EXTINF:-1 group-title="台湾频道",世新综合
 http://61.58.60.230:9319/live/49.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
-http://107.151.203.111:2209/135/us50.php?id=tsk
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
 http://23.237.10.66:16344
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻
+http://107.151.203.111:2209/135/us50.php?id=tsk
+#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻台
 https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道",台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 group-title="台湾频道",民视第一台
 rtmp://59.124.75.138/sat/md011
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
@@ -89,15 +74,13 @@ http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 https://p.ggiptv.com/play.php?token=l24RZpJbmVlQoGDqNEy7xkb%2B&tid=gt&id=48
 #EXTINF:-1 group-title="台湾频道",镜新闻
 https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 group-title="台湾频道",老电影
-http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾频道",华视新闻资讯
+http://stream.dsichannel.com/hls/cts-news.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png",东风卫视
 http://123.51.230.108:18560/.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://120.84.96.73:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://120.84.96.89:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://107.151.203.111:2209/135/hk.php?id=dsypt
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
 http://123.51.230.108:18515/.m3u8
@@ -106,9 +89,8 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道",东森新闻台
 https://p.ggiptv.com/play.php?token=DxRLXKWVmqk8P9GvEjFvW4Bi&tid=gt&id=44
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",东森电影台
-http://120.84.96.89:808/hls/32/index.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",东森电影台
 http://107.151.203.111:2209/135/hk.php?id=dsdyt
+http://120.84.96.89:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png",东森戏剧台
 http://123.51.230.108:18538/.m3u8
 #EXTINF:-1 group-title="台湾频道",东森购物
@@ -117,36 +99,18 @@ http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png",采昌影剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",香港佛陀
-http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",香港佛陀
-https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民电视
-http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民电视
+http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
 https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",国会频道1
-http://61.58.60.230:9319/live/123.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png",智林体育台
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",发现心嘉义
-http://61.58.60.230:9319/live/101.m3u8
-#EXTINF:-1 group-title="台湾频道",华视新闻资讯 HD
-http://stream.dsichannel.com:80/hls/cts-news.m3u8
-#EXTINF:-1 group-title="台湾频道",华视新闻资讯 HD
-http://stream.dsichannel.com/hls/cts-news.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png",爱尔达娱乐 HD
 http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达体育1台
@@ -180,7 +144,7 @@ rtmp://59.124.75.138/sat/tv701
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",纬来体育台
 http://123.51.230.108:18509/.m3u8
 rtmp://59.124.75.138/sat/tv721
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png",龙华日韩
+#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png",龙华日韩台
 http://123.51.230.108:18551/.m3u8
 #EXTINF:-1 group-title="台湾频道",宠物台
 http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
@@ -191,7 +155,11 @@ rtmp://59.124.75.138/sat/md041
 rtmp://59.124.75.138:1935/sat/tv741
 #EXTINF:-1 group-title="台湾频道",博斯魅力网
 rtmp://59.124.75.138/sat/md021
-#EXTINF:-1 group-title="台湾频道",嘉义 SHOW
+#EXTINF:-1 group-title="台湾频道",嘉义SHOW
 http://61.58.60.230:9319/live/100.m3u8
+#EXTINF:-1 group-title="台湾频道",发现心嘉义
+http://61.58.60.230:9319/live/101.m3u8
 #EXTINF:-1 group-title="台湾频道",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾频道",国会频道1
+http://61.58.60.230:9319/live/123.m3u8
