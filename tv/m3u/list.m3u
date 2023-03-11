@@ -341,34 +341,34 @@ https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
 http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",ELTA生活旅遊
+#EXTINF:-1 group-title="台灣頻道",ELTA 生活旅遊
 http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",GINX
+#EXTINF:-1 group-title="測試頻道",GINX
 http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道",Gobal
+#EXTINF:-1 group-title="測試頻道",Gobal
 http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png",Lifetime
 http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",LIVE互動英語
+#EXTINF:-1 group-title="台灣頻道",LIVE 互動英語
 http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png",LUXE TV
+#EXTINF:-1 group-title="測試頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png",LUXE TV
 http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",MCE
+#EXTINF:-1 group-title="測試頻道",MCE
 http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mezzo.png",mezzo
+#EXTINF:-1 group-title="測試頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mezzo.png",mezzo
 http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png",NHK
 http://123.51.230.108:18525/.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/roller.png",ROLLOR
+#EXTINF:-1 group-title="測試頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/roller.png",ROLLOR
 http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台灣頻道",Sexy K-Pop
+#EXTINF:-1 group-title="測試頻道",Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道",starworld
-http://123.51.230.108:18504/.m3u8
-#EXTINF:-1 group-title="台灣頻道",TRACE
+#EXTINF:-1 group-title="測試頻道",TRACE
 http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png",TraceSports
+#EXTINF:-1 group-title="測試頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png",TraceSports
 http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="https://i.imgur.com/SfcZyqm.png", Taiwan Plus
+https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 group-title="台灣頻道",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣頻道",TVBS 亞洲
@@ -401,7 +401,7 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人間衛視
 http://123.51.230.108:18561/.m3u8
-#EXTINF:-1 group-title="台灣頻道",人間衛視
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
 http://123.51.230.108:18539/.m3u8
@@ -470,6 +470,8 @@ http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道",三立新聞
 https://p.ggiptv.com/play.php?token=l24RZpJbmVlQoGDqNEy7xkb%2B&tid=gt&id=48
 #EXTINF:-1 group-title="台灣頻道",鏡新聞
+https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:-1 group-title="台灣頻道",鏡新聞
 https://p.ggiptv.com/play.php?token=tvo9T0TKJMSOVYlSAqHkPLxG&tid=gt&id=52
 #EXTINF:-1 group-title="台灣頻道",老電影
 http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
@@ -505,15 +507,15 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 group-title="台灣頻道",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民族電視
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民族電視
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民族電視
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民電視
 https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民族電視
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民族電視
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 #EXTINF:-1 group-title="測試頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",時尚台 FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
