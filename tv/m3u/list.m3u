@@ -378,14 +378,14 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道",TVBS 亞洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png",TVBS 新聞
+https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png",TVBS 新聞
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png",TVBS 新聞
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道",TVBS 新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣頻道",TVBS 新聞
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png",TVBS 新聞
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣頻道",TVBS 新聞
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png",TVBS 新聞
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣頻道",TVBS 歡樂
 https://p.ggiptv.com/play.php?token=3o63lg7qEWukVRkS%2Fxlytsp6&tid=gt&id=57
@@ -433,16 +433,16 @@ http://61.58.60.230:9319/live/49.m3u8
 http://107.151.203.111:2209/135/us50.php?id=tsk
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視.png",台視 HD
 http://23.237.10.66:16344
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞 HD
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞 HD
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞 HD
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣頻道",台灣番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 group-title="台灣頻道",台灣番薯台
