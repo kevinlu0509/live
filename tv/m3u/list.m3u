@@ -214,21 +214,16 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育1" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport1.png",ELTA体育1
-http://pull-l3-cny.douyincdn.com/live/7e167b9be194957112c66200ced6949c.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育1" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport1.png",ELTA体育1
 rtmp://59.124.75.138/sat/md031
 
 #EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",ELTA体育2
-https://pull-l3-cny.douyincdn.com/live/536363a74ad71f469e79a879f804fabc.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",ELTA体育2
 rtmp://59.124.75.138/sat/md051
-#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",ELTA体育2
+
+#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育3" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport3.png",ELTA体育3
 rtmp://59.124.75.138/sat/md021
 
-#EXTINF:-1 group-title="台湾频道TEST",ELEVEN体育一台
-rtmp://59.124.75.138/sat/tv741
 #EXTINF:-1 group-title="台湾频道",ELEVEN体育一台
-https://pull-l3-cny.douyincdn.com/live/ce15017484677e494973b509c4f3aa74.m3u8
+rtmp://59.124.75.138/sat/tv741
 
 #EXTINF:-1 group-title="台湾频道TEST",ELEVEN体育二台
 rtmp://59.124.75.138:1935/sat/tv741
@@ -301,6 +296,7 @@ http://61.58.60.230:9319/live/101.m3u8
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾频道",国会频道1
 http://61.58.60.230:9319/live/123.m3u8
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 http://123.51.230.108:18561/.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
@@ -315,6 +311,7 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png",生命电视台
 http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png",唯心电视
