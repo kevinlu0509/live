@@ -213,16 +213,16 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达生活旅游",ELTA生活旅游
 http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育1",ELTA体育1
+#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育1" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport1.png",ELTA体育1
 http://pull-l3-cny.douyincdn.com/live/7e167b9be194957112c66200ced6949c.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育1",ELTA体育1
+#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育1" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport1.png",ELTA体育1
 rtmp://59.124.75.138/sat/md031
 
-#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育2",ELTA体育2
+#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",ELTA体育2
 https://pull-l3-cny.douyincdn.com/live/536363a74ad71f469e79a879f804fabc.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育2",ELTA体育2
+#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",ELTA体育2
 rtmp://59.124.75.138/sat/md051
-#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育2",ELTA体育2
+#EXTINF:-1 group-title="台湾频道TEST" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",ELTA体育2
 rtmp://59.124.75.138/sat/md021
 
 #EXTINF:-1 group-title="台湾频道TEST",ELEVEN体育一台
