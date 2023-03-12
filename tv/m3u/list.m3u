@@ -228,13 +228,13 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达生活旅游",ELTA生活旅游
 http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育1" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport1.png",ELTA体育1
+#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育1" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport1.png",爱尔达体育1
 rtmp://59.124.75.138/sat/md031
 
-#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",ELTA体育2
+#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport2.png",爱尔达体育2
 rtmp://59.124.75.138/sat/md051
 
-#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育3" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport3.png",ELTA体育3
+#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达体育3" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Sport3.png",爱尔达体育3
 rtmp://59.124.75.138/sat/md021
 
 #EXTINF:-1 group-title="台湾频道",ELEVEN体育一台
