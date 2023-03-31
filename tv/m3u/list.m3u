@@ -168,6 +168,8 @@ http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 http://123.51.230.108:18560/.m3u8
 
 #EXTINF:-1 group-title="台湾频道",東森新聞
+http://2023.stream-link.org/live/1793825065
+#EXTINF:-1 group-title="台湾频道TEST",東森新聞
 http://2023.stream-link.org/playlist/ebc_news.flv
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
