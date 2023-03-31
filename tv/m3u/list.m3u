@@ -174,24 +174,22 @@ http://120.84.96.89:808/hls/33/index.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://107.151.203.111:2209/135/hk.php?id=dsypt
 
+#EXTINF:-1 group-title="台湾频道",东森新闻台
+http://2023.stream-link.org/live/1793825065
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
 http://123.51.230.108:18515/.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台1
 http://2023.stream-link.org/playlist/ebc_finance.flv
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台2
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台3
+http://2023.stream-link.org/live/249006034
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCSuper.png",东森超视
 rtmp://59.124.75.138/sat/tv521
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCSuper.png",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-
-#EXTINF:-1 group-title="台湾频道TEST",东森新闻台
-https://p.ggiptv.com/play.php?token=DxRLXKWVmqk8P9GvEjFvW4Bi&tid=gt&id=44
-#EXTINF:-1 group-title="台湾频道TEST",东森新闻台
-http://2023.stream-link.org/live/1793825065
-#EXTINF:-1 group-title="台湾频道",东森新闻台
-http://2023.stream-link.org/playlist/ebc_news.flv
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCMovies.png",东森电影台
 http://120.84.96.89:808/hls/32/index.m3u8
