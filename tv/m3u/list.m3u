@@ -363,5 +363,5 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="韩国频道", JTBC
 https://everylive.online/live/jtbc/livestream.m3u8
 
-#EXTINF:-1 group-title="韩国频道", KBC
+#EXTINF:-1 group-title="韩国频道", KBC-SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
