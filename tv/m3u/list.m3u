@@ -179,9 +179,9 @@ http://107.151.203.111:2209/135/hk.php?id=dsypt
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
 http://123.51.230.108:18515/.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台1
 http://2023.stream-link.org/playlist/ebc_finance.flv
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台2
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCSuper.png",东森超视
