@@ -246,6 +246,9 @@ rtmp://59.124.75.138/sat/md021
 #EXTINF:-1 group-title="台湾频道",ELEVEN体育一台
 rtmp://59.124.75.138/sat/tv741
 
+#EXTINF:-1 group-title="台湾频道TEST",ELEVEN体育一台
+https://pull-l3-cny.douyincdn.com/live/2c3065eb2e36e6b566e9e7ffda36e2e2.flv?time=1680258620
+
 #EXTINF:-1 group-title="台湾频道TEST",ELEVEN体育二台
 rtmp://59.124.75.138:1935/sat/tv741
 #EXTINF:-1 group-title="台湾频道",ELEVEN体育二台
