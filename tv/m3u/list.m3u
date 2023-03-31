@@ -101,7 +101,7 @@ http://stream.dsichannel.com/hls/cts-news.m3u8
 #EXTINF:-1 group-title="台湾频道",镜新闻
 https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
-#EXTINF:-1 group-title="台湾频道",寰宇新闻台
+#EXTINF:-1 group-title="台湾频道" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png",寰宇新闻台
 http://2023.stream-link.org/playlist/global_news.flv
 
 #EXTINF:-1 group-title="台湾频道TEST",三立iNews
@@ -109,6 +109,9 @@ http://seb.sason.top/sc/slinews_fhd.m3u8
 
 #EXTINF:-1 group-title="台湾频道TEST",三立新闻台
 http://2023.stream-link.org/playlist/set_news.flv
+
+#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://or00.stream-link.org/tv_logo/set-finance.png",三立财经新闻
+http://2023.stream-link.org/live/172551145
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
 http://123.51.230.108:18539/.m3u8
