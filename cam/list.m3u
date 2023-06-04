@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="台北市",中山區｜民生東路、中山北路路口
+#EXTINF:-1 group-title="台北市",中山｜民生東路-中山北路
 https://cctv.bote.gov.taipei:8501/MJPEG/328
 
-#EXTINF:-1 group-title="新北市",新莊區｜中央路、中港路路口
+#EXTINF:-1 group-title="新北市",新莊｜中央路-中港路
 https://cctvatis1.ntpc.gov.tw/C000378
 
-#EXTINF:-1 group-title="新北市",三重區｜自強路五段、仁義街路口
+#EXTINF:-1 group-title="新北市",三重｜自強路五段-仁義街
 https://cctvatis3.ntpc.gov.tw/C000164
+
+#EXTINF:-1 group-title="新北市",泰山｜新北大道-泰林路
+https://cctvatis2.ntpc.gov.tw/C000107
