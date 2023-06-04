@@ -1,21 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="台北市",中山｜民生東路-中山北路
+#EXTINF:-1 group-title="台北",中山-民生東路-中山北路
 https://cctv.bote.gov.taipei:8501/MJPEG/328
-
-#EXTINF:-1 group-title="新北市",新莊｜中央路-中港路
+#EXTINF:-1 group-title="台北",台北-第一殯儀館
+https://cctv.bote.gov.taipei:8501/MJPEG/020
+#EXTINF:-1 group-title="台北",台北-貓空纜車站
+https://youtu.be/BP69KnwrvxM
+#EXTINF:-1 group-title="台北",台北-台北車站
+https://cctv.bote.gov.taipei:8501/MJPEG/301
+#EXTINF:-1 group-title="台北",台北-松江路-民權東路
+https://cctv.bote.gov.taipei:8501/MJPEG/242
+#EXTINF:-1 group-title="台北",台北-市民大道-松江路
+https://cctv.bote.gov.taipei:8501/MJPEG/314
+#EXTINF:-1 group-title="台北",台北-松江路-長安東路
+https://cctv.bote.gov.taipei:8501/MJPEG/313
+#EXTINF:-1 group-title="新北",新莊-中央路-中港路
 https://cctvatis1.ntpc.gov.tw/C000378
-
-#EXTINF:-1 group-title="新北市",三重｜自強路五段-仁義街
-https://cctvatis3.ntpc.gov.tw/C000164
-
-#EXTINF:-1 group-title="新北市",三重｜重新路-重陽路
-https://cctvatis4.ntpc.gov.tw/C000026
-
-#EXTINF:-1 group-title="新北市",泰山｜新北大道-泰林路
-https://cctvatis2.ntpc.gov.tw/C000107
-
-#EXTINF:-1 group-title="新北市",新莊｜中山路-中正路(南側號誌桿上)
+#EXTINF:-1 group-title="新北",新莊-中正路-思源路
+https://cctvatis1.ntpc.gov.tw/C000027
+#EXTINF:-1 group-title="新北",新莊-中山路-中正路
 https://cctvatis3.ntpc.gov.tw/C000162
-
-#EXTINF:-1 group-title="新北市",新莊｜新五路-中山路(北側號誌桿上)
+#EXTINF:-1 group-title="新北",三重-自強路五段-仁義街
+https://cctvatis3.ntpc.gov.tw/C000164
+#EXTINF:-1 group-title="新北",三重-重新路-重陽路
+https://cctvatis4.ntpc.gov.tw/C000026
+#EXTINF:-1 group-title="新北",三重-重新路-福德北路
+https://cctvatis2.ntpc.gov.tw/C000067
+#EXTINF:-1 group-title="新北",新莊-中山路-中正路(南側號誌桿上)
+https://cctvatis3.ntpc.gov.tw/C000162
+#EXTINF:-1 group-title="新北",新莊-新五路-中山路(北側號誌桿上)
 https://cctvatis4.ntpc.gov.tw/C000163
+#EXTINF:-1 group-title="新北",新莊-中正路-大觀街
+https://cctvatis3.ntpc.gov.tw/C000300
+#EXTINF:-1 group-title="新北",泰山-新北大道-泰林路
+https://cctvatis2.ntpc.gov.tw/C000107
+#EXTINF:-1 group-title="新北",板橋-文化路-漢生東路
+https://cctvatis3.ntpc.gov.tw/C000375
+#EXTINF:-1 group-title="新北",板橋-大漢橋
+https://cctvatis4.ntpc.gov.tw/C000019
+#EXTINF:-1 group-title="台南",台南-安平遊憩碼頭停車場
+https://trafficvideo2.tainan.gov.tw/192168234003/
+#EXTINF:-1 group-title="台南",台南-安平樹屋停車場
+https://trafficvideo2.tainan.gov.tw/192168234001/
+#EXTINF:-1 group-title="台南",台南-安平安億橋停車場
+https://trafficvideo2.tainan.gov.tw/192168234004/
+#EXTINF:-1 group-title="台南",台南-安平水景公園停車場
+https://trafficvideo2.tainan.gov.tw/192168234002/
+#EXTINF:-1 group-title="台南",台南-永康交流道
+https://trafficvideo2.tainan.gov.tw/9508fab4/
+#EXTINF:-1 group-title="台南",台南-新營交流道
+https://trafficvideo2.tainan.gov.tw/a3f5f3d2/
+#EXTINF:-1 group-title="台南",台南-東寧路-中華東路一段
+https://trafficvideo2.tainan.gov.tw/c9db808b
