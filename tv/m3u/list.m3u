@@ -191,7 +191,7 @@ rtmp://59.124.75.138/sat/tv521
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCMovies.png",东森电影台
-http://120.84.96.89:808/hls/32/index.m3u8
+http://162.19.247.76:22222/live/dsdyt/index.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCMovies.png",东森电影台
 http://107.151.203.111:2209/135/hk.php?id=dsdyt
 
