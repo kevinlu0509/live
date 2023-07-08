@@ -228,6 +228,9 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",TRACE体育
 http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达影劇台",ELTA影劇台
+http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
+
 #EXTINF:-1 group-title="台湾频道" tvg-name="爱尔达娱乐台" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Ent.png",ELTA娱乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 
