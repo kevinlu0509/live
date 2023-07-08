@@ -171,7 +171,7 @@ http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 http://123.51.230.108:18560/.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
-http://120.84.96.73:808/hls/33/index.m3u8
+http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://120.84.96.89:808/hls/33/index.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
