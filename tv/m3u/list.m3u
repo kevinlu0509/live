@@ -100,10 +100,13 @@ http://2023.stream-link.org/playlist/cts_news.flv
 http://stream.dsichannel.com/hls/cts-news.m3u8
 
 #EXTINF:-1 group-title="台湾频道",镜新闻
+http://tv.redrainl.site:9500/live.m3u8?c=28
+
+#EXTINF:-1 group-title="台湾频道TEST",镜新闻
 https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png",寰宇新闻台
-http://2023.stream-link.org/playlist/global_news.flv
+http://tv.redrainl.site:9500/live.m3u8?c=22
 
 #EXTINF:-1 group-title="台湾频道",三立iNews
 http://tv.redrainl.site:9500/live.m3u8?c=51
