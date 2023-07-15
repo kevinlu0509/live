@@ -8,7 +8,7 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🏴‍☠️失效",ACTION
 http://1.1.1.1/
 
-#EXTINF:-1 group-title="🇺🇳海外频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK World
+#EXTINF:-1 group-title="🇯🇵日本频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK World
 http://tv.redrainl.site:9500/live.m3u8?c=9
 
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK
@@ -233,7 +233,7 @@ http://220.134.196.147:9563/.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/VideolandSportsHD.png",纬来体育台
 rtmp://59.124.75.138/sat/tv721
 
-#EXTINF:-1 group-title="🇺🇳海外频道",Sexy K-Pop
+#EXTINF:-1 group-title="🇰🇷韓國频道",Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="🏴‍☠️失效",TRACE音乐
@@ -242,7 +242,7 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1 group-title="🏴‍☠️失效",TRACE体育
 http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-name="爱尔达影劇台",ELTA影劇台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-name="爱尔达影劇台",ELTA影劇台(慢速)
 http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 
 #EXTINF:-1 group-title="🏴‍☠️失效" tvg-name="爱尔达娱乐台" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/ELTA_Ent.png",ELTA娱乐台
@@ -279,114 +279,121 @@ rtmp://59.124.75.138/sat/md011
 #EXTINF:-1 group-title="🏳️频道TEST",博斯网球
 rtmp://59.124.75.138/sat/md041
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png",智林体育台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png",智林体育台
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png",靖天卡通
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png",靖天卡通
 http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png",靖天育乐
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png",靖天育乐
 http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png",靖天映画
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png",靖天映画
 http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png",靖天国际
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png",靖天国际
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戏剧.png",靖天戏剧
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戏剧.png",靖天戏剧
 http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png",靖天欢乐
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png",靖天欢乐
 http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png",靖洋戏剧
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png",靖洋戏剧
 http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png",龙华日韩台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png",龙华日韩台
 http://123.51.230.108:18551/.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png",采昌影剧台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png",采昌影剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",经典卡通台
+#EXTINF:-1 group-title="🏳️频道TEST",经典卡通台
 http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",精选动漫台
+#EXTINF:-1 group-title="🏳️频道TEST",精选动漫台
 http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",影迷纪实台
+#EXTINF:-1 group-title="🏳️频道TEST",影迷纪实台
 http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",金馬影院
+#EXTINF:-1 group-title="🏳️频道TEST",金馬影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",世新综合
+#EXTINF:-1 group-title="🏳️频道TEST",世新综合
 http://61.58.60.230:9319/live/49.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",生活时尚
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",生活时尚
 http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
+#EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
+#EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
+#EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
 https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
+#EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
+#EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 
-#EXTINF:-1 group-title="台湾频道",台湾番薯台
+#EXTINF:-1 group-title="🏳️频道TEST",台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="台湾频道TEST",台湾番薯台
+#EXTINF:-1 group-title="🏳️频道TEST",台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png",大立电视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png",大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="台湾频道",嘉义SHOW
+#EXTINF:-1 group-title="🏳️频道TEST",嘉义SHOW
 http://61.58.60.230:9319/live/100.m3u8
-#EXTINF:-1 group-title="台湾频道",发现心嘉义
+#EXTINF:-1 group-title="🏳️频道TEST",发现心嘉义
 http://61.58.60.230:9319/live/101.m3u8
-#EXTINF:-1 group-title="台湾频道",中台湾生活网
+#EXTINF:-1 group-title="🏳️频道TEST",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",国会频道1
+#EXTINF:-1 group-title="🏳️频道TEST",国会频道1
 http://61.58.60.230:9319/live/123.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 http://123.51.230.108:18561/.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png",生命电视台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png",生命电视台
 http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png",唯心电视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",创世电视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png",大爱一台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png",大爱一台
 https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png",大爱二台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png",大爱二台
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-#EXTINF:-1 group-title="台湾频道",全球财经
+#EXTINF:-1 group-title="🏳️频道TEST",全球财经
 http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="韩国频道", TVN
+#EXTINF:-1 group-title="🇰🇷韩国频道", TVN
 https://everylive.online/live/tvn/livestream.m3u8?hls_ctx=37110547
 
-#EXTINF:-1 group-title="韩国频道", KBS1
+#EXTINF:-1 group-title="🇰🇷韩国频道", KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1680336036&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAzMzYwMzZ9fX1dfQ__&Signature=VaIOxfWtUv41j3N2sykay6UxF2d4F5d0T3D84byHX9q~7HiNu4aNi2rNg6HvSL4R6HwA034DF0-W7o~Dx0T1Dl4aqJrPmr2gYm~RjKpbHSqp1EVodWCrHKg62-sZrwReVbNDCR~lR68~U1ATaJS4Z2MD4AL0YoDqMvefVy4XVnHp1vxmDJGeFkb3pRTjACxzO0sEzt5AwyMdYpCmL40DiMO6NWykAEupjNBGjHOAwvombM~7BSr2nJJhCCRZCSkY5XunzKVAqV1CdjNkoi7nnue-gljGjDvkyPbUT4Z1XeKrAVks7V~LMxcXUn3nzr43-RZSStMozjkvP-k0K-9Uug__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
-#EXTINF:-1 group-title="韩国频道", KBS2
+#EXTINF:-1 group-title="🇰🇷韩国频道", KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1680336078&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAzMzYwNzh9fX1dfQ__&Signature=g-Jpj39AaYnilQisDvX~rvhYirP3eTD5EdL35yurNiwhxk-sIXZVN1JDGqTIhQ1WRcJCkYYkM6E1JIZ5HlgyM59YzZdL0SEihfWQ7e8GirtLLwY0sb7ffDp7a-0hXcEmhghnn7eyUD4Jfcc0JSLaQ3BAJAsN-5ub9R53VU64Y9U5FEL4Ji8T0pxFRVbS42R~~v3ZcjoiMrRSJNMasIAxWoxXbAj1MO78kun6F2e59soR3KB0uY~hbLcD9IVgZ3qcifPDs5q5rDSVnyUV~9mtyMHGI8hmcy-Jyy4BEels7kT4x9jK2pnvqgWQxTBLtuI-dMDUNnG411fm~WfbgOPM7Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
-#EXTINF:-1 group-title="韩国频道", MBC
+#EXTINF:-1 group-title="🇰🇷韩国频道", MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="韩国频道", JTBC
+#EXTINF:-1 group-title="🇰🇷韩国频道", JTBC
 https://everylive.online/live/jtbc/livestream.m3u8
 
-#EXTINF:-1 group-title="韩国频道", KBC-SBS
+#EXTINF:-1 group-title="🇰🇷韩国频道", KBC-SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+
+
+
+
+
+
