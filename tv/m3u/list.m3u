@@ -118,39 +118,39 @@ http://1.1.1.1/
 #EXTINF:-1 group-title="🏴‍☠️失效",三立都会台
 http://1.1.1.1/
 
-#EXTINF:-1 group-title="台湾频道TEST",三立新闻台
+#EXTINF:-1 group-title="🏳️频道TEST",三立新闻台
 http://2023.stream-link.org/playlist/set_news.flv
 
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://or00.stream-link.org/tv_logo/set-finance.png",三立财经新闻
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://or00.stream-link.org/tv_logo/set-finance.png",三立财经新闻
 http://2023.stream-link.org/live/172551145
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
 http://123.51.230.108:18539/.m3u8
 
-#EXTINF:-1 group-title="台湾频道TEST",MOMO综合台
+#EXTINF:-1 group-title="🏳️频道TEST",MOMO综合台
 rtmp://59.124.75.138/sat/tv761
 
-#EXTINF:-1 group-title="台湾频道",TVBS
+#EXTINF:-1 group-title="🏴‍☠️失效",TVBS
 http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道TEST",TVBS
+#EXTINF:-1 group-title="🏳️频道TEST",TVBS
 http://2023.stream-link.org/playlist/tvbs.flv
-#EXTINF:-1 group-title="台湾频道TEST",TVBS
+#EXTINF:-1 group-title="🇹🇼台湾频道",TVBS
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 rtmp://59.124.75.138/sat/tv551
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TVBS亚洲台
+#EXTINF:-1 group-title="🇹🇼台湾频道",TVBS亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道TEST",TVBS亚洲台
+#EXTINF:-1 group-title="🏳️频道TEST",TVBS亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾频道TEST",TVBS亚洲台
+#EXTINF:-1 group-title="🏳️频道TEST",TVBS亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%AC%A2%E4%B9%90.png",TVBS欢乐台
