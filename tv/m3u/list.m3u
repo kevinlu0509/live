@@ -82,10 +82,10 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻台
 https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 
-#EXTINF:-1 group-title="🇹🇼台湾频道",中视
+#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://epg.112114.xyz/logo/中视.png",中视
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
 
-#EXTINF:-1 group-title="🇹🇼台湾频道",中视新闻台
+#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://epg.112114.xyz/logo/中视.png",中视新闻台
 http://tv.redrainl.site:9500/live.m3u8?c=2
 
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png",中视菁采台
