@@ -191,7 +191,9 @@ http://103.112.191.9:880/LAOSAT1018.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://107.151.203.111:2209/135/hk.php?id=dsypt
 
-#EXTINF:-1 group-title="🇹🇼台湾频道",东森新闻台
+#EXTINF:-1 group-title="🇹🇼台湾频道",东森新闻台(YouTube)
+http://bad-ass.site:35455/youtube/R2iMq5LKXco
+#EXTINF:-1 group-title="🏳️频道TEST",东森新闻台
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 
 #EXTINF:-1 group-title="🇹🇼台湾频道",东森新闻美洲
