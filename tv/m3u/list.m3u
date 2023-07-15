@@ -268,7 +268,7 @@ https://pull-l3-cny.douyincdn.com/live/2c3065eb2e36e6b566e9e7ffda36e2e2.flv?time
 
 #EXTINF:-1 group-title="🏳️频道TEST",ELEVEN体育二台
 rtmp://59.124.75.138:1935/sat/tv741
-#EXTINF:-1 group-title="台湾频道",ELEVEN体育二台
+#EXTINF:-1 group-title="🏳️频道TEST",ELEVEN体育二台
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 #EXTINF:-1 group-title="🏳️频道TEST",博斯运动
