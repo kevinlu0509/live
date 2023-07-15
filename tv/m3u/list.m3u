@@ -58,7 +58,7 @@ http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
-http://23.237.10.66:16344
+http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
 http://2023.stream-link.org/playlist/ttv.flv
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
