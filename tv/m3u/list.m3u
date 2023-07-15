@@ -388,11 +388,11 @@ http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🇰🇷韩国频道", TVN
 https://everylive.online/live/tvn/livestream.m3u8?hls_ctx=37110547
 
-#EXTINF:-1 group-title="🇰🇷韩国频道", KBS1
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1680336036&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAzMzYwMzZ9fX1dfQ__&Signature=VaIOxfWtUv41j3N2sykay6UxF2d4F5d0T3D84byHX9q~7HiNu4aNi2rNg6HvSL4R6HwA034DF0-W7o~Dx0T1Dl4aqJrPmr2gYm~RjKpbHSqp1EVodWCrHKg62-sZrwReVbNDCR~lR68~U1ATaJS4Z2MD4AL0YoDqMvefVy4XVnHp1vxmDJGeFkb3pRTjACxzO0sEzt5AwyMdYpCmL40DiMO6NWykAEupjNBGjHOAwvombM~7BSr2nJJhCCRZCSkY5XunzKVAqV1CdjNkoi7nnue-gljGjDvkyPbUT4Z1XeKrAVks7V~LMxcXUn3nzr43-RZSStMozjkvP-k0K-9Uug__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="🏴‍☠️失效", KBS1
+https://1.1.1.1
 
-#EXTINF:-1 group-title="🇰🇷韩国频道", KBS2
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1680336078&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAzMzYwNzh9fX1dfQ__&Signature=g-Jpj39AaYnilQisDvX~rvhYirP3eTD5EdL35yurNiwhxk-sIXZVN1JDGqTIhQ1WRcJCkYYkM6E1JIZ5HlgyM59YzZdL0SEihfWQ7e8GirtLLwY0sb7ffDp7a-0hXcEmhghnn7eyUD4Jfcc0JSLaQ3BAJAsN-5ub9R53VU64Y9U5FEL4Ji8T0pxFRVbS42R~~v3ZcjoiMrRSJNMasIAxWoxXbAj1MO78kun6F2e59soR3KB0uY~hbLcD9IVgZ3qcifPDs5q5rDSVnyUV~9mtyMHGI8hmcy-Jyy4BEels7kT4x9jK2pnvqgWQxTBLtuI-dMDUNnG411fm~WfbgOPM7Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="🏴‍☠️失效", KBS2
+https://1.1.1.1
 
 #EXTINF:-1 group-title="🇰🇷韩国频道", MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
