@@ -150,9 +150,9 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%AC%A2%E4%B9%90.png",TVBS欢乐台
 https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://i.imgur.com/u81tZtA.png",中天新闻台
-https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://i.imgur.com/u81tZtA.png",中天新闻台
+tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://i.imgur.com/u81tZtA.png",中天新闻台
 http://2023.stream-link.org/playlist/cti_news.flv
 
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天综合台
