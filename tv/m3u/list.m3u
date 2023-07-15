@@ -14,10 +14,10 @@ http://tv.redrainl.site:9500/live.m3u8?c=9
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK
 http://123.51.230.108:18525/.m3u8
 
-#EXTINF:-1 group-title="🇹🇼台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/Lifetime.png",Lifetime
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/Lifetime.png",Lifetime
 http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="🇹🇼台湾频道TEST",LIVE互动英语
+#EXTINF:-1 group-title="🏳️频道TEST",LIVE互动英语
 http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="🏳️频道TEST",Gobal
@@ -87,12 +87,12 @@ http://tv.redrainl.site:9500/live.m3u8?c=2
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png",中视菁采台
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png",中视菁采台
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png",中视菁采台
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CTS.png",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
-#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CTS.png",华视
+#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CTS.png",华视
 rtmp://59.124.75.138/sat/tv111
 
 #EXTINF:-1 group-title="台湾频道",华视新闻资讯
