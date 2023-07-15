@@ -2,8 +2,11 @@
 #EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
 http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="🇺🇳海外频道",FOX新闻台
+#EXTINF:-1 group-title="🇺🇳海外频道",FOX News
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇳海外频道",ABC News
+http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 group-title="🏴‍☠️失效",ACTION
 http://1.1.1.1/
@@ -184,7 +187,7 @@ http://123.51.230.108:18560/.m3u8
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
-http://120.84.96.89:808/hls/33/index.m3u8
+http://103.112.191.9:880/LAOSAT1018.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://107.151.203.111:2209/135/hk.php?id=dsypt
 
@@ -208,6 +211,9 @@ http://107.151.203.111:2209/135/hk.php?id=dsdyt
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCDrama.png",东森戏剧台
 http://162.19.247.76:22222/live/dsxj/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇼台湾频道",卫视电影台
+103.112.191.9:880/LAOSAT1085.m3u8
 
 #EXTINF:-1 group-title="🏳️频道TEST",新唐人
 http://tv.redrainl.site:9500/live.m3u8?c=52
@@ -279,6 +285,9 @@ rtmp://59.124.75.138/sat/md011
 #EXTINF:-1 group-title="🏳️频道TEST",博斯网球
 rtmp://59.124.75.138/sat/md041
 
+#EXTINF:-1 group-title="⚽️体育频道",博斯高球1
+http://103.112.191.9:880/LAOSAT1081.m3u8
+
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png",智林体育台
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png",靖天卡通
@@ -322,6 +331,9 @@ https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/yuanzhumin.png",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+
+#EXTINF:-1 group-title="🇹🇼台湾频道",Animal Planet
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
 #EXTINF:-1 group-title="🏳️频道TEST",台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
