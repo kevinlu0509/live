@@ -88,7 +88,7 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CTS.png",华视
-http://2023.stream-link.org/playlist/cts_zy.flv
+http://162.19.247.76:22222/live/huashi/index.m3u8
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CTS.png",华视
 rtmp://59.124.75.138/sat/tv111
 
@@ -121,7 +121,7 @@ http://2023.stream-link.org/live/172551145
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一台
 http://123.51.230.108:18539/.m3u8
 
-#EXTINF:-1 group-title="台湾频道",MOMO综合台
+#EXTINF:-1 group-title="台湾频道TEST",MOMO综合台
 rtmp://59.124.75.138/sat/tv761
 
 #EXTINF:-1 group-title="台湾频道",TVBS
@@ -169,7 +169,7 @@ http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m
 #EXTINF:-1 group-title="台湾频道TEST",中天美食旅游
 #
 
-#EXTINF:-1 group-title="台湾频道",中天全民最大党
+#EXTINF:-1 group-title="台湾频道",中天娱乐台
 http://162.19.247.76:22222/live/ztyl/index.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png",东风卫视
