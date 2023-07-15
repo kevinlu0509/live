@@ -2,16 +2,16 @@
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
 http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="台湾频道",FOX新闻台
+#EXTINF:-1 group-title="台湾频道TEST",FOX新闻台
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾频道NONE",ACTION
 #
 
-#EXTINF:-1 group-title="台湾频道NONE",NHK World
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK World
 http://tv.redrainl.site:9500/live.m3u8?c=9
 
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK
+#EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK
 http://123.51.230.108:18525/.m3u8
 
 #EXTINF:-1 group-title="台湾频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/Lifetime.png",Lifetime
