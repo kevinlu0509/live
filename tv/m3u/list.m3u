@@ -194,6 +194,9 @@ http://107.151.203.111:2209/135/hk.php?id=dsypt
 #EXTINF:-1 group-title="🇹🇼台湾频道",东森新闻台
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 
+#EXTINF:-1 group-title="🇹🇼台湾频道",东森新闻美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8 
+
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
 http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台3
