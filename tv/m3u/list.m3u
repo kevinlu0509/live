@@ -110,7 +110,7 @@ http://tv.redrainl.site:9500/live.m3u8?c=28
 https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png",寰宇新闻台
-http://tv.redrainl.site:9500/live.m3u8?c=22
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
 #EXTINF:-1 group-title="🇹🇼台湾频道",三立iNews
 http://tv.redrainl.site:9500/live.m3u8?c=51
