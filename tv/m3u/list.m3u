@@ -25,6 +25,13 @@ http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇼電影",龙祥电影台
 https://ctrl.laotv.la/live/Longxiang/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCMovies.png",东森电影台
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/HBO.png",HBO
+https://ctrl.laotv.la/live/HBO/index.m3u8
+
 #EXTINF:-1 group-title="🇹🇼其它",Animal Planet
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 #EXTINF:-1 group-title="🇹🇼其它",台湾番薯台
