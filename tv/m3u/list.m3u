@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 group-title="🇹🇼綜合" tvg-logo="https://epg.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B2%E5%8F%B0.png",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 group-title="🇹🇼電影",龙祥电影台
+#EXTINF:-1 group-title="🇹🇼電影" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",龙祥电影台
 https://ctrl.laotv.la/live/Longxiang/index.m3u8
 #EXTINF:-1 group-title="🇹🇼電影" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png",东森电影台
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
