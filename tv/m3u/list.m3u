@@ -11,9 +11,6 @@ http://tv.redrainl.site:9500/live.m3u8?c=10
 #EXTINF:-1 group-title="🏴‍☠️失效",ACTION
 http://1.1.1.1/
 
-#EXTINF:-1 group-title="🇺🇳海外频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/HBO.png",HBO
-https://ctrl.laotv.la/live/HBO/index.m3u8
-
 #EXTINF:-1 group-title="🇯🇵日本频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK World
 http://tv.redrainl.site:9500/live.m3u8?c=9
 
@@ -215,8 +212,11 @@ http://162.19.247.76:22222/live/dsxj/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台湾频道",龙祥电影台
 https://ctrl.laotv.la/live/Longxiang/index.m3u8
 
-#EXTINF:-1 group-title="🇹🇼台湾频道",卫视电影台
+#EXTINF:-1 group-title="🏴‍☠️失效",卫视电影台
 103.112.191.9:880/LAOSAT1085.m3u8
+
+#EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/HBO.png",HBO
+https://ctrl.laotv.la/live/HBO/index.m3u8
 
 #EXTINF:-1 group-title="🏳️频道TEST",新唐人
 http://tv.redrainl.site:9500/live.m3u8?c=52
