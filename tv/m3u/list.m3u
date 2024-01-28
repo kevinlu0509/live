@@ -185,11 +185,7 @@ http://162.19.247.76:22222/live/ztyl/index.m3u8
 http://123.51.230.108:18560/.m3u8
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
-http://162.19.247.76:22222/live/dsypt/index.m3u8
-#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
-http://103.112.191.9:880/LAOSAT1018.m3u8
-#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
-http://107.151.203.111:2209/135/hk.php?id=dsypt
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇼台湾频道",东森新闻台(YouTube)
 http://bad-ass.site:35455/youtube/R2iMq5LKXco
@@ -200,9 +196,7 @@ http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=1924
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8 
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
-http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
-#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台3
-http://2023.stream-link.org/live/249006034
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCSuper.png",东森超视
 rtmp://59.124.75.138/sat/tv521
@@ -210,9 +204,7 @@ rtmp://59.124.75.138/sat/tv521
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCMovies.png",东森电影台
-http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCMovies.png",东森电影台
-http://107.151.203.111:2209/135/hk.php?id=dsdyt
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/EBCDrama.png",东森戏剧台
 http://162.19.247.76:22222/live/dsxj/index.m3u8
