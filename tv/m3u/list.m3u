@@ -1,22 +1,32 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="🇺🇳海外",FOX News
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇳海外" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK World
 http://tv.redrainl.site:9500/live.m3u8?c=9
+
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
 http://tv.redrainl.site:9500/live.m3u8?c=1
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/中视.png",中视新闻台
 http://tv.redrainl.site:9500/live.m3u8?c=2
-#EXTINF:-1 group-title="🇹🇼新聞",镜新闻
-http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1 group-title="🇹🇼新聞",三立iNews
 http://tv.redrainl.site:9500/live.m3u8?c=51
-#EXTINF:-1 group-title="🇹🇼綜合",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="🇹🇼新聞",镜新闻
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png",寰宇新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+
+#EXTINF:-1 group-title="🇹🇼綜合",TVBS
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇼綜合",TVBS亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇼電影",龙祥电影台
+https://ctrl.laotv.la/live/Longxiang/index.m3u8
+
 #EXTINF:-1 group-title="🇹🇼其它",Animal Planet
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 #EXTINF:-1 group-title="🇹🇼其它",台湾番薯台
@@ -27,6 +37,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://61.58.60.230:9319/live/100.m3u8
 #EXTINF:-1 group-title="🇹🇼其它",国会频道1
 http://61.58.60.230:9319/live/123.m3u8
+
 #EXTINF:-1 group-title="🏁宗教" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="🏁宗教" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png",生命电视台
