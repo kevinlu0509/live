@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
-http://tv.redrainl.site:9500/live.m3u8?c=1
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/中视.png",中视新闻台
 http://tv.redrainl.site:9500/live.m3u8?c=2
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png",中天新闻台
