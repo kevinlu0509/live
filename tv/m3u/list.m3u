@@ -2,10 +2,10 @@
 #EXTINF:-1 group-title="🇺🇳海外频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
 https://ctrl.laotv.la/live/CNN/index.m3u8
 
-#EXTINF:-1 group-title="🇺🇳海外频道",FOX News
+#EXTINF:-1 group-title="🏴‍☠️失效",FOX News
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🇺🇳海外频道",ABC News
+#EXTINF:-1 group-title="🏴‍☠️失效",ABC News
 http://tv.redrainl.site:9500/live.m3u8?c=10
 
 #EXTINF:-1 group-title="🏴‍☠️失效",ACTION
@@ -160,7 +160,7 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 
 #EXTINF:-1 group-title="🇹🇼台湾频道" tvg-logo="https://i.imgur.com/u81tZtA.png",中天新闻台
-http://tv.redrainl.site:9500/live.m3u8?c=3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="🏳️频道TEST" tvg-logo="https://i.imgur.com/u81tZtA.png",中天新闻台
 http://2023.stream-link.org/playlist/cti_news.flv
 
