@@ -11,6 +11,9 @@ http://tv.redrainl.site:9500/live.m3u8?c=10
 #EXTINF:-1 group-title="🏴‍☠️失效",ACTION
 http://1.1.1.1/
 
+#EXTINF:-1 group-title="🇺🇳海外频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/HBO.png",HBO
+http://tv.redrainl.site:9500/live.m3u8?c=22
+
 #EXTINF:-1 group-title="🇯🇵日本频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK World
 http://tv.redrainl.site:9500/live.m3u8?c=9
 
