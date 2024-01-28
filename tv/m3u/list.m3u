@@ -8,7 +8,7 @@ http://tv.redrainl.site:9500/live.m3u8?c=9
 http://tv.redrainl.site:9500/live.m3u8?c=1
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/中视.png",中视新闻台
 http://tv.redrainl.site:9500/live.m3u8?c=2
-#EXTINF:-1 tvg-id="CTiNews.tw",中天新闻台
+#EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png",中天新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="🇹🇼新聞",三立iNews
 http://tv.redrainl.site:9500/live.m3u8?c=51
