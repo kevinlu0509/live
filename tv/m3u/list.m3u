@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="🏴‍☠️失效" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
+#EXTINF:-1 group-title="🇺🇳海外频道" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
 https://ctrl.laotv.la/live/CNN/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇳海外频道",FOX News
