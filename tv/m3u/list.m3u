@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=51
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="🇹🇼新聞",镜新闻
+#EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/%E9%95%9C%E6%96%B0%E9%97%BB.png",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
