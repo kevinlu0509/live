@@ -60,6 +60,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717697979/ei/
 
 #EXTINF:-1 group-title="🇹🇼電影",纬来电影
 https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼電影",好莱坞电影
+https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇼運動",爱尔达体育1台
 https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
