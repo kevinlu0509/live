@@ -25,7 +25,7 @@ https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 https://ctrl.laotv.la/live/HBO/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇳海外" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
-https://gist.githubusercontent.com/snehesht/b119c1ce73141b44f3711c62911c76c3/raw/7527aa39dc91b34d690fda3777d21f8ecc193eb1/cnn.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="🇺🇳海外" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/NHK.png",NHK World
 https://bmcc.nhkworld.jp/live/index_1M.m3u8
 
