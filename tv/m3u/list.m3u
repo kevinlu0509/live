@@ -24,6 +24,11 @@ https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3
 https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
 #EXTINF:-1 group-title="🇹🇼電影" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png",东森电影台
 https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
+#EXTINF:-1 group-title="🇹🇼電影",HBO HD
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 group-title="🇹🇼電影",HBO HD
+https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
+
 
 #EXTINF:-1 group-title="🇺🇳海外" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
