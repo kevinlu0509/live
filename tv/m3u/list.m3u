@@ -24,6 +24,11 @@ https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 https://z88.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇼新聞",非凡新聞
+https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
+#EXTINF:-1 group-title="🇹🇼新聞",非凡新聞
+https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
+
 
 #EXTINF:-1 group-title="🇹🇼綜合" tvg-logo="https://epg.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B2%E5%8F%B0.png",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
