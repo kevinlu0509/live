@@ -11,18 +11,19 @@ http://tv.redrainl.site:9500/live.m3u8?c=51
 http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717697979/ei/W6lhZqPWDMjI0_wPgcKxkAE/ip/172.177.6.16/id/m_dhMSvUCIc.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr7---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f53O8z4fcoe_GVlL3Xuso5JDGZx0DI4K-G_sTbbgZ7yP5wpJE37BIj5vxyA/vprv/1/playlist_type/DVR/mh/V0/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/7/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717675975/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgP-oYA9kcVTdaEWlp9IBVImab-6Ky7GVPLIoucGskSNcCIQCF3qvdpZdTFFVbYTMupm_Yl47uyWK7-BC6EF2QIvowIA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgQX4YVzFj0lr8NtwkfK6S03YyioJ5BtHngLIt3fGToY8CIAQunMS6ANaGpNmCURAeTFNvb-fu11WFBedvQjwPdnUp/playlist/index.m3u8
+
 
 #EXTINF:-1 group-title="🇹🇼綜合" tvg-logo="https://epg.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B2%E5%8F%B0.png",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 group-title="🇹🇼電影" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",龙祥电影台
-https://ctrl.laotv.la/live/Longxiang/index.m3u8
+#EXTINF:-1 group-title="🇹🇼電影",纬来电影
+https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼電影",好莱坞电影
+https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
 #EXTINF:-1 group-title="🇹🇼電影" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png",东森电影台
-https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 group-title="🇹🇼電影" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87%E5%8F%B0.png",东森洋片台
-https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 group-title="🇹🇼電影" tvg-logo="https://epg.112114.xyz/logo/HBOHD.png",HBO
-https://ctrl.laotv.la/live/HBO/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇳海外" tvg-logo="https://raw.githubusercontent.com/kevinlu0509/live/main/tv/CNNNews.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -52,18 +53,6 @@ https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="🏁宗教" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png",大爱二台
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-
-
-
-#EXTINF:-1 group-title="🇹🇼新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717697979/ei/W6lhZqPWDMjI0_wPgcKxkAE/ip/172.177.6.16/id/m_dhMSvUCIc.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr7---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f53O8z4fcoe_GVlL3Xuso5JDGZx0DI4K-G_sTbbgZ7yP5wpJE37BIj5vxyA/vprv/1/playlist_type/DVR/mh/V0/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/7/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717675975/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgP-oYA9kcVTdaEWlp9IBVImab-6Ky7GVPLIoucGskSNcCIQCF3qvdpZdTFFVbYTMupm_Yl47uyWK7-BC6EF2QIvowIA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgQX4YVzFj0lr8NtwkfK6S03YyioJ5BtHngLIt3fGToY8CIAQunMS6ANaGpNmCURAeTFNvb-fu11WFBedvQjwPdnUp/playlist/index.m3u8
-
-#EXTINF:-1 group-title="🇹🇼電影",纬来电影
-https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
-#EXTINF:-1 group-title="🇹🇼電影",好莱坞电影
-https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-#EXTINF:-1 group-title="🇹🇼電影",東森电影
-https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇼運動",爱尔达体育1台
 https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
