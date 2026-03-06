@@ -38,15 +38,6 @@ https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1 tvg-name="FUN探索娱乐" tvg-id="" tvg-country="Taiwan" tvg-language="Taiwan" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718012701691568_25.png" group-title="Generic",[BD]fun探索娱乐
 https://t.freetv.fun/live/funtan-suo-yu-le-5.m3u8
 
-#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Taiwan" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[HD]food network
-https://t.freetv.fun/live/food-network-1.m3u8
-
-#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Taiwan" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[BD]food network
-https://t.freetv.fun/live/food-network-3.m3u8
-
-#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Taiwan" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[HD]ช่อง food network
-https://t.freetv.fun/live/ch-ng-food-network.m3u8
-
 #EXTINF:-1 tvg-name="HGTV(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Taiwan" tvg-logo="https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png" group-title="Knowledge",[HD]ช่อง hgtv
 https://t.freetv.fun/live/ch-ng-hgtv.m3u8
 
