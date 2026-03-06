@@ -37,7 +37,7 @@ https://z88.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇼綜合" tvg-logo="https://epg.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B2%E5%8F%B0.png",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇼綜合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",东森综合台
+#EXTINF:-1 group-title="🇹🇼綜合" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/EBC1.png",东森综合台
 https://stream1.freetv.fun/a34f63cf23e4e386f7b9304a7bf75f568c4886d6ccaec81cee72fd1156ad2e00.m3u8
 
 #EXTINF:-1 group-title="🇹🇼電影",纬来电影
